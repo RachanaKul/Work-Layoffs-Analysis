@@ -1,4 +1,5 @@
 Work Layoffs Analysis
+
 This repository contains a comprehensive analysis of work layoffs in the tech industry. The analysis utilizes data from various sources, including public reports and company announcements, to provide insights into the trends and patterns of layoffs.
 
 Data Cleaning and EDA using SQL
